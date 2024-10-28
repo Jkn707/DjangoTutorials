@@ -1,0 +1,131 @@
+{
+  "build": "py310h062c2fa_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\USER\\.conda\\pkgs\\rpds-py-0.10.6-py310h062c2fa_0",
+  "files": [
+    "Lib/site-packages/rpds/__init__.py",
+    "Lib/site-packages/rpds/__init__.pyi",
+    "Lib/site-packages/rpds/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/rpds/py.typed",
+    "Lib/site-packages/rpds/rpds.cp310-win_amd64.pyd",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/INSTALLER",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/METADATA",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/RECORD",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/REQUESTED",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/WHEEL",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/direct_url.json",
+    "Lib/site-packages/rpds_py-0.10.6.dist-info/license_files/LICENSE"
+  ],
+  "fn": "rpds-py-0.10.6-py310h062c2fa_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\USER\\.conda\\pkgs\\rpds-py-0.10.6-py310h062c2fa_0",
+    "type": 1
+  },
+  "md5": "32284223ed89e553c3c7d7e19025b560",
+  "name": "rpds-py",
+  "package_tarball_full_path": "C:\\Users\\USER\\.conda\\pkgs\\rpds-py-0.10.6-py310h062c2fa_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/rpds/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c373205d6ee5a530880b0d0a5dbc36d105f9ef7fe46ec12758878cb0202e82f3",
+        "sha256_in_prefix": "c373205d6ee5a530880b0d0a5dbc36d105f9ef7fe46ec12758878cb0202e82f3",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "Lib/site-packages/rpds/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "b79a57edc872af067a497139810f14312186d85c377d07e0c34ff4ca9e99a25f",
+        "sha256_in_prefix": "b79a57edc872af067a497139810f14312186d85c377d07e0c34ff4ca9e99a25f",
+        "size_in_bytes": 1646
+      },
+      {
+        "_path": "Lib/site-packages/rpds/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "392e3234e3da449dc870518673f7665756d23b435f3ae7ca19589502340b1f2d",
+        "sha256_in_prefix": "392e3234e3da449dc870518673f7665756d23b435f3ae7ca19589502340b1f2d",
+        "size_in_bytes": 214
+      },
+      {
+        "_path": "Lib/site-packages/rpds/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/rpds/rpds.cp310-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "039d18a92536514c6fa59d9ed8a560f6437e1299311483e834ce87f789b0dc0c",
+        "sha256_in_prefix": "039d18a92536514c6fa59d9ed8a560f6437e1299311483e834ce87f789b0dc0c",
+        "size_in_bytes": 452096
+      },
+      {
+        "_path": "Lib/site-packages/rpds_py-0.10.6.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/rpds_py-0.10.6.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "07558dd06c0d7d53032dce3813d36fb5f229a965246b32afd4bbfd30d4a2f65d",
+        "sha256_in_prefix": "07558dd06c0d7d53032dce3813d36fb5f229a965246b32afd4bbfd30d4a2f65d",
+        "size_in_bytes": 3747
+      },
+      {
+        "_path": "Lib/site-packages/rpds_py-0.10.6.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "67c0d59a483cb604910c2405199f0f8f0ef4beee65d4e350c99b4939476069e6",
+        "sha256_in_prefix": "67c0d59a483cb604910c2405199f0f8f0ef4beee65d4e350c99b4939476069e6",
+        "size_in_bytes": 939
+      },
+      {
+        "_path": "Lib/site-packages/rpds_py-0.10.6.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/rpds_py-0.10.6.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "2d603901e3fc52cc912c860aaa7cf713c4315b15b376a0301d796767fd634c7a",
+        "sha256_in_prefix": "2d603901e3fc52cc912c860aaa7cf713c4315b15b376a0301d796767fd634c7a",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "Lib/site-packages/rpds_py-0.10.6.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "71c8e47ca84778de8933a1abd9280cfdc9435bf52554ed815d35d2bb6fe6554b",
+        "sha256_in_prefix": "71c8e47ca84778de8933a1abd9280cfdc9435bf52554ed815d35d2bb6fe6554b",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "Lib/site-packages/rpds_py-0.10.6.dist-info/license_files/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "314e4e91be3baa93c0fb4bccc9e4e97cd643eb839b065af921782c2175fe9909",
+        "sha256_in_prefix": "314e4e91be3baa93c0fb4bccc9e4e97cd643eb839b065af921782c2175fe9909",
+        "size_in_bytes": 1057
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0cf45071a6fc1a2b54ca5a1c6b0ceae32051456d3ef2e1addf5f8a34af21e120",
+  "size": 206377,
+  "subdir": "win-64",
+  "timestamp": 1698948055000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/rpds-py-0.10.6-py310h062c2fa_0.conda",
+  "version": "0.10.6"
+}

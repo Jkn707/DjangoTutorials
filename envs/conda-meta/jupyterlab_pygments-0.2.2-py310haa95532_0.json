@@ -1,0 +1,252 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "jupyterlab >=3.1,<4"
+  ],
+  "depends": [
+    "pygments >=2.4.1,<3",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\USER\\.conda\\pkgs\\jupyterlab_pygments-0.2.2-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/INSTALLER",
+    "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/LICENSE",
+    "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/METADATA",
+    "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/RECORD",
+    "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/REQUESTED",
+    "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/WHEEL",
+    "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/direct_url.json",
+    "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/top_level.txt",
+    "Lib/site-packages/jupyterlab_pygments/__init__.py",
+    "Lib/site-packages/jupyterlab_pygments/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/jupyterlab_pygments/__pycache__/_version.cpython-310.pyc",
+    "Lib/site-packages/jupyterlab_pygments/__pycache__/style.cpython-310.pyc",
+    "Lib/site-packages/jupyterlab_pygments/_version.py",
+    "Lib/site-packages/jupyterlab_pygments/labextension/package.json",
+    "Lib/site-packages/jupyterlab_pygments/labextension/static/568.1e2faa2ba0bbe59c4780.js",
+    "Lib/site-packages/jupyterlab_pygments/labextension/static/747.8eb3ddccc7ec4987bff9.js",
+    "Lib/site-packages/jupyterlab_pygments/labextension/static/remoteEntry.aa1060b2d1221f8e5688.js",
+    "Lib/site-packages/jupyterlab_pygments/labextension/static/style.js",
+    "Lib/site-packages/jupyterlab_pygments/labextension/static/third-party-licenses.json",
+    "Lib/site-packages/jupyterlab_pygments/style.py",
+    "share/jupyter/labextensions/jupyterlab_pygments/install.json",
+    "share/jupyter/labextensions/jupyterlab_pygments/package.json",
+    "share/jupyter/labextensions/jupyterlab_pygments/static/568.1e2faa2ba0bbe59c4780.js",
+    "share/jupyter/labextensions/jupyterlab_pygments/static/747.8eb3ddccc7ec4987bff9.js",
+    "share/jupyter/labextensions/jupyterlab_pygments/static/remoteEntry.aa1060b2d1221f8e5688.js",
+    "share/jupyter/labextensions/jupyterlab_pygments/static/style.js",
+    "share/jupyter/labextensions/jupyterlab_pygments/static/third-party-licenses.json"
+  ],
+  "fn": "jupyterlab_pygments-0.2.2-py310haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\USER\\.conda\\pkgs\\jupyterlab_pygments-0.2.2-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "f8acf136b5251bfcfce9744ede35c533",
+  "name": "jupyterlab_pygments",
+  "package_tarball_full_path": "C:\\Users\\USER\\.conda\\pkgs\\jupyterlab_pygments-0.2.2-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e5ac2be30b2bcefe330ee9e5ad7fe5b0d1156fecb3555fcaaa908a8d29f9fded",
+        "sha256_in_prefix": "e5ac2be30b2bcefe330ee9e5ad7fe5b0d1156fecb3555fcaaa908a8d29f9fded",
+        "size_in_bytes": 1513
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "fa6dec739f61d5e3ae8cf1bc58a974ea2efb91c5802ffe3d3111de4b9a179d6f",
+        "sha256_in_prefix": "fa6dec739f61d5e3ae8cf1bc58a974ea2efb91c5802ffe3d3111de4b9a179d6f",
+        "size_in_bytes": 1927
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "008f444192c77cca345c05bf0818c948b88ab52aed1d569d870742b87653c207",
+        "sha256_in_prefix": "008f444192c77cca345c05bf0818c948b88ab52aed1d569d870742b87653c207",
+        "size_in_bytes": 2873
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "sha256_in_prefix": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a046095f3162609c8524bb12a7a1250ca41a9b82aaeb3a49e6ffc1b567e1c503",
+        "sha256_in_prefix": "a046095f3162609c8524bb12a7a1250ca41a9b82aaeb3a49e6ffc1b567e1c503",
+        "size_in_bytes": 99
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments-0.2.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b77ad3233ab1be30f9cb10d222e1714119b9b8e2c756a44640f65e2d686ef328",
+        "sha256_in_prefix": "b77ad3233ab1be30f9cb10d222e1714119b9b8e2c756a44640f65e2d686ef328",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "951c771d58d0fb751efdd32a69855bc24f9d9a82663d919df535d8a81ee1cb5b",
+        "sha256_in_prefix": "951c771d58d0fb751efdd32a69855bc24f9d9a82663d919df535d8a81ee1cb5b",
+        "size_in_bytes": 209
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d2cb4f3426d3633127ee1a66ba135ad4865479b534d876239f06967e88fbe40d",
+        "sha256_in_prefix": "d2cb4f3426d3633127ee1a66ba135ad4865479b534d876239f06967e88fbe40d",
+        "size_in_bytes": 410
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/__pycache__/_version.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5c8bed79d9cd5de6fa054eb7c547f05a4654c3e8131e3e2fd5aae0219b6ee428",
+        "sha256_in_prefix": "5c8bed79d9cd5de6fa054eb7c547f05a4654c3e8131e3e2fd5aae0219b6ee428",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/__pycache__/style.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "22616a14d90d12dfa310a6a7b5cb78b073b5b635f7df82f5e1a43ecbe33d67ff",
+        "sha256_in_prefix": "22616a14d90d12dfa310a6a7b5cb78b073b5b635f7df82f5e1a43ecbe33d67ff",
+        "size_in_bytes": 2544
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/_version.py",
+        "path_type": "hardlink",
+        "sha256": "67ac055cce0aa70d4c0e1ce78ca0a5741abb01fe291d79b52f355d53a3554d18",
+        "sha256_in_prefix": "67ac055cce0aa70d4c0e1ce78ca0a5741abb01fe291d79b52f355d53a3554d18",
+        "size_in_bytes": 175
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/labextension/package.json",
+        "path_type": "hardlink",
+        "sha256": "767f13b688136457613b8a92042d27458da3dea128ae5e89415f54e5ea293ae1",
+        "sha256_in_prefix": "767f13b688136457613b8a92042d27458da3dea128ae5e89415f54e5ea293ae1",
+        "size_in_bytes": 3508
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/labextension/static/568.1e2faa2ba0bbe59c4780.js",
+        "path_type": "hardlink",
+        "sha256": "1e2faa2ba0bbe59c478051deae97846f78131976aa98eb4ffdfa24b62624d8ef",
+        "sha256_in_prefix": "1e2faa2ba0bbe59c478051deae97846f78131976aa98eb4ffdfa24b62624d8ef",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/labextension/static/747.8eb3ddccc7ec4987bff9.js",
+        "path_type": "hardlink",
+        "sha256": "8eb3ddccc7ec4987bff977b8d08cd6363d18d9358865fb9859dfb88218a854ca",
+        "sha256_in_prefix": "8eb3ddccc7ec4987bff977b8d08cd6363d18d9358865fb9859dfb88218a854ca",
+        "size_in_bytes": 7753
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/labextension/static/remoteEntry.aa1060b2d1221f8e5688.js",
+        "path_type": "hardlink",
+        "sha256": "aa1060b2d1221f8e56881edb9c97f25c237d6a8c23e6f85e9a6435831fbfbafd",
+        "sha256_in_prefix": "aa1060b2d1221f8e56881edb9c97f25c237d6a8c23e6f85e9a6435831fbfbafd",
+        "size_in_bytes": 3889
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/labextension/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "e3b0092f744dcfb50677cb8ef548ba825c2c39c593cd0888260434bf03744636",
+        "sha256_in_prefix": "e3b0092f744dcfb50677cb8ef548ba825c2c39c593cd0888260434bf03744636",
+        "size_in_bytes": 162
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/labextension/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "3ff5632ca092319dec5ee3dc920f1b0f207c5e7f090fb12c888a11aaf48fde1d",
+        "sha256_in_prefix": "3ff5632ca092319dec5ee3dc920f1b0f207c5e7f090fb12c888a11aaf48fde1d",
+        "size_in_bytes": 2452
+      },
+      {
+        "_path": "Lib/site-packages/jupyterlab_pygments/style.py",
+        "path_type": "hardlink",
+        "sha256": "97f29ad618aa242fbdd67ddb9648b79a49023432ba18df9102e905a05e2658e1",
+        "sha256_in_prefix": "97f29ad618aa242fbdd67ddb9648b79a49023432ba18df9102e905a05e2658e1",
+        "size_in_bytes": 8492
+      },
+      {
+        "_path": "share/jupyter/labextensions/jupyterlab_pygments/install.json",
+        "path_type": "hardlink",
+        "sha256": "5b90c1a3c707e0358fbf90b5708a606bd2462d82bb68a99efc8c471527e23cac",
+        "sha256_in_prefix": "5b90c1a3c707e0358fbf90b5708a606bd2462d82bb68a99efc8c471527e23cac",
+        "size_in_bytes": 199
+      },
+      {
+        "_path": "share/jupyter/labextensions/jupyterlab_pygments/package.json",
+        "path_type": "hardlink",
+        "sha256": "767f13b688136457613b8a92042d27458da3dea128ae5e89415f54e5ea293ae1",
+        "sha256_in_prefix": "767f13b688136457613b8a92042d27458da3dea128ae5e89415f54e5ea293ae1",
+        "size_in_bytes": 3508
+      },
+      {
+        "_path": "share/jupyter/labextensions/jupyterlab_pygments/static/568.1e2faa2ba0bbe59c4780.js",
+        "path_type": "hardlink",
+        "sha256": "1e2faa2ba0bbe59c478051deae97846f78131976aa98eb4ffdfa24b62624d8ef",
+        "sha256_in_prefix": "1e2faa2ba0bbe59c478051deae97846f78131976aa98eb4ffdfa24b62624d8ef",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "share/jupyter/labextensions/jupyterlab_pygments/static/747.8eb3ddccc7ec4987bff9.js",
+        "path_type": "hardlink",
+        "sha256": "8eb3ddccc7ec4987bff977b8d08cd6363d18d9358865fb9859dfb88218a854ca",
+        "sha256_in_prefix": "8eb3ddccc7ec4987bff977b8d08cd6363d18d9358865fb9859dfb88218a854ca",
+        "size_in_bytes": 7753
+      },
+      {
+        "_path": "share/jupyter/labextensions/jupyterlab_pygments/static/remoteEntry.aa1060b2d1221f8e5688.js",
+        "path_type": "hardlink",
+        "sha256": "aa1060b2d1221f8e56881edb9c97f25c237d6a8c23e6f85e9a6435831fbfbafd",
+        "sha256_in_prefix": "aa1060b2d1221f8e56881edb9c97f25c237d6a8c23e6f85e9a6435831fbfbafd",
+        "size_in_bytes": 3889
+      },
+      {
+        "_path": "share/jupyter/labextensions/jupyterlab_pygments/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "e3b0092f744dcfb50677cb8ef548ba825c2c39c593cd0888260434bf03744636",
+        "sha256_in_prefix": "e3b0092f744dcfb50677cb8ef548ba825c2c39c593cd0888260434bf03744636",
+        "size_in_bytes": 162
+      },
+      {
+        "_path": "share/jupyter/labextensions/jupyterlab_pygments/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "3ff5632ca092319dec5ee3dc920f1b0f207c5e7f090fb12c888a11aaf48fde1d",
+        "sha256_in_prefix": "3ff5632ca092319dec5ee3dc920f1b0f207c5e7f090fb12c888a11aaf48fde1d",
+        "size_in_bytes": 2452
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "961d5a6d5bb276ac8f153bd0fc9f76ec4d6543bdffb49094aeb9a327d78bf0db",
+  "size": 18620,
+  "subdir": "win-64",
+  "timestamp": 1700168687000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyterlab_pygments-0.2.2-py310haa95532_0.conda",
+  "version": "0.2.2"
+}
