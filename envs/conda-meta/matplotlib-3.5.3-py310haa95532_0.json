@@ -1,0 +1,34 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.5.3,<3.5.4.0a0",
+    "pyqt",
+    "python >=3.10,<3.11.0a0",
+    "tornado"
+  ],
+  "extracted_package_dir": "C:\\Users\\USER\\.conda\\pkgs\\matplotlib-3.5.3-py310haa95532_0",
+  "files": [],
+  "fn": "matplotlib-3.5.3-py310haa95532_0.conda",
+  "license": "LicenseRef-PSF-based",
+  "link": {
+    "source": "C:\\Users\\USER\\.conda\\pkgs\\matplotlib-3.5.3-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "7b8259a4684b993c73042792d03f948c",
+  "name": "matplotlib",
+  "package_tarball_full_path": "C:\\Users\\USER\\.conda\\pkgs\\matplotlib-3.5.3-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib=3.5",
+  "sha256": "34e2b34ee6f283b2fe950fcb6654f0690395843bbfebf8feb6fd94886cf8b07e",
+  "size": 7796,
+  "subdir": "win-64",
+  "timestamp": 1667357391000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-3.5.3-py310haa95532_0.conda",
+  "version": "3.5.3"
+}

@@ -1,0 +1,338 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "faker >=0.7.0",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\USER\\.conda\\pkgs\\factory_boy-3.2.0-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/factory/__init__.py",
+    "Lib/site-packages/factory/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/alchemy.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/base.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/builder.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/declarations.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/django.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/enums.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/errors.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/faker.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/fuzzy.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/helpers.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/mogo.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/mongoengine.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/random.cpython-310.pyc",
+    "Lib/site-packages/factory/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/factory/alchemy.py",
+    "Lib/site-packages/factory/base.py",
+    "Lib/site-packages/factory/builder.py",
+    "Lib/site-packages/factory/declarations.py",
+    "Lib/site-packages/factory/django.py",
+    "Lib/site-packages/factory/enums.py",
+    "Lib/site-packages/factory/errors.py",
+    "Lib/site-packages/factory/faker.py",
+    "Lib/site-packages/factory/fuzzy.py",
+    "Lib/site-packages/factory/helpers.py",
+    "Lib/site-packages/factory/mogo.py",
+    "Lib/site-packages/factory/mongoengine.py",
+    "Lib/site-packages/factory/random.py",
+    "Lib/site-packages/factory/utils.py",
+    "Lib/site-packages/factory_boy-3.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/factory_boy-3.2.0.dist-info/LICENSE",
+    "Lib/site-packages/factory_boy-3.2.0.dist-info/METADATA",
+    "Lib/site-packages/factory_boy-3.2.0.dist-info/RECORD",
+    "Lib/site-packages/factory_boy-3.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/factory_boy-3.2.0.dist-info/WHEEL",
+    "Lib/site-packages/factory_boy-3.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/factory_boy-3.2.0.dist-info/top_level.txt"
+  ],
+  "fn": "factory_boy-3.2.0-py310haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\USER\\.conda\\pkgs\\factory_boy-3.2.0-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "683506b96b733dc49ed2599e7b009552",
+  "name": "factory_boy",
+  "package_tarball_full_path": "C:\\Users\\USER\\.conda\\pkgs\\factory_boy-3.2.0-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/factory/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "db7c4a8ea5b1eefad073aa6bd03365bfe0b302bea254b8c0c2a47370e6a8ff9a",
+        "sha256_in_prefix": "db7c4a8ea5b1eefad073aa6bd03365bfe0b302bea254b8c0c2a47370e6a8ff9a",
+        "size_in_bytes": 1507
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7da1f89811ec765b6f93ccaef833a1729b942d4576c5b3ead3d5f94f86f3b282",
+        "sha256_in_prefix": "7da1f89811ec765b6f93ccaef833a1729b942d4576c5b3ead3d5f94f86f3b282",
+        "size_in_bytes": 1822
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/alchemy.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3c6da5e1a5cdfc358678fe348a14469fb6ca9bf875fc229cd8e4c3058724f8f1",
+        "sha256_in_prefix": "3c6da5e1a5cdfc358678fe348a14469fb6ca9bf875fc229cd8e4c3058724f8f1",
+        "size_in_bytes": 3606
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "aeff2e1a697fef38cbf040666ac00e5bd19e005bcd41306da2a3cbdc25a6ed1b",
+        "sha256_in_prefix": "aeff2e1a697fef38cbf040666ac00e5bd19e005bcd41306da2a3cbdc25a6ed1b",
+        "size_in_bytes": 25421
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/builder.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ebda2fe06fc2b9832fd296c3063ea8221d569e0ce098f30a2aa0bd972a7ba034",
+        "sha256_in_prefix": "ebda2fe06fc2b9832fd296c3063ea8221d569e0ce098f30a2aa0bd972a7ba034",
+        "size_in_bytes": 11782
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/declarations.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "566c63562259556a8758e2e977ebf37acba37ed79e5ca42fb9dc2259e5aa5613",
+        "sha256_in_prefix": "566c63562259556a8758e2e977ebf37acba37ed79e5ca42fb9dc2259e5aa5613",
+        "size_in_bytes": 26383
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/django.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "81b47c42967d2335bbdd87f7a6707c10de2c23036f227856033fbd7a4a529d8f",
+        "sha256_in_prefix": "81b47c42967d2335bbdd87f7a6707c10de2c23036f227856033fbd7a4a529d8f",
+        "size_in_bytes": 9963
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/enums.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "148b9535b5f6de9f098e4166e1604f9a2b8fef08eefce2b09dc3dfe108ca1e05",
+        "sha256_in_prefix": "148b9535b5f6de9f098e4166e1604f9a2b8fef08eefce2b09dc3dfe108ca1e05",
+        "size_in_bytes": 620
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/errors.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac9319f401f42a9e22c76c4382ba14d6608b2657af321348c000ef14e0755d4f",
+        "sha256_in_prefix": "ac9319f401f42a9e22c76c4382ba14d6608b2657af321348c000ef14e0755d4f",
+        "size_in_bytes": 1326
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/faker.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b52d00ed55c76ba778160a597a77a71e0e749681efe32e2885b6579e122bd14d",
+        "sha256_in_prefix": "b52d00ed55c76ba778160a597a77a71e0e749681efe32e2885b6579e122bd14d",
+        "size_in_bytes": 2250
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/fuzzy.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fe10f02c275ef012af90c21321c8f335369b9cdce95390bb2e92121a9784547c",
+        "sha256_in_prefix": "fe10f02c275ef012af90c21321c8f335369b9cdce95390bb2e92121a9784547c",
+        "size_in_bytes": 9629
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/helpers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc7ebad18a1315e28184078a66b35130ccdc7dd61d65d2355c669edc50289fd3",
+        "sha256_in_prefix": "dc7ebad18a1315e28184078a66b35130ccdc7dd61d65d2355c669edc50289fd3",
+        "size_in_bytes": 4039
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/mogo.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9edece6064298ec7ac1bb813c5e1dc0aca410eb86fdfc57bc67f6f576bf2bad4",
+        "sha256_in_prefix": "9edece6064298ec7ac1bb813c5e1dc0aca410eb86fdfc57bc67f6f576bf2bad4",
+        "size_in_bytes": 968
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/mongoengine.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6a174a5bddeaaff128c423c1a9ad2fddc37c6bc2800e1d6a3f045b2445aa6878",
+        "sha256_in_prefix": "6a174a5bddeaaff128c423c1a9ad2fddc37c6bc2800e1d6a3f045b2445aa6878",
+        "size_in_bytes": 1039
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/random.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "457a0ab5ba3753b39d858608d507909ae122247024c565908c312146958cd638",
+        "sha256_in_prefix": "457a0ab5ba3753b39d858608d507909ae122247024c565908c312146958cd638",
+        "size_in_bytes": 925
+      },
+      {
+        "_path": "Lib/site-packages/factory/__pycache__/utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e1a3eb0a8d4195fb6a5d0d87aabefd2fc72ffd506e7df6265f4987f43f029f1d",
+        "sha256_in_prefix": "e1a3eb0a8d4195fb6a5d0d87aabefd2fc72ffd506e7df6265f4987f43f029f1d",
+        "size_in_bytes": 4220
+      },
+      {
+        "_path": "Lib/site-packages/factory/alchemy.py",
+        "path_type": "hardlink",
+        "sha256": "80edc0ca01e15177e48a1e3b90fe09b63f9870f610ad8011340ef2329d2f4e49",
+        "sha256_in_prefix": "80edc0ca01e15177e48a1e3b90fe09b63f9870f610ad8011340ef2329d2f4e49",
+        "size_in_bytes": 3995
+      },
+      {
+        "_path": "Lib/site-packages/factory/base.py",
+        "path_type": "hardlink",
+        "sha256": "21ac60e18a9fd99f0260980e913b92ab14cf2f4e43273bfc84ab6fb888ef1733",
+        "sha256_in_prefix": "21ac60e18a9fd99f0260980e913b92ab14cf2f4e43273bfc84ab6fb888ef1733",
+        "size_in_bytes": 23836
+      },
+      {
+        "_path": "Lib/site-packages/factory/builder.py",
+        "path_type": "hardlink",
+        "sha256": "8c0a92cd6a277a38d93ddfb2adbb4a1690bbf0a2236c0336b6bd6d499dc7dba4",
+        "sha256_in_prefix": "8c0a92cd6a277a38d93ddfb2adbb4a1690bbf0a2236c0336b6bd6d499dc7dba4",
+        "size_in_bytes": 12170
+      },
+      {
+        "_path": "Lib/site-packages/factory/declarations.py",
+        "path_type": "hardlink",
+        "sha256": "29413897884bd5fb1f59606ceb382ed9699ed30b110b2c71ac5f87ed166ee681",
+        "sha256_in_prefix": "29413897884bd5fb1f59606ceb382ed9699ed30b110b2c71ac5f87ed166ee681",
+        "size_in_bytes": 24694
+      },
+      {
+        "_path": "Lib/site-packages/factory/django.py",
+        "path_type": "hardlink",
+        "sha256": "bf16a3ff5329bdcf4cc4ed4e375afc03376e0141f3107335f5a48662b9f9c5bf",
+        "sha256_in_prefix": "bf16a3ff5329bdcf4cc4ed4e375afc03376e0141f3107335f5a48662b9f9c5bf",
+        "size_in_bytes": 10903
+      },
+      {
+        "_path": "Lib/site-packages/factory/enums.py",
+        "path_type": "hardlink",
+        "sha256": "219abc60519135c62c9cac90378fbe1675e6e3c345688da546a493b8689961b2",
+        "sha256_in_prefix": "219abc60519135c62c9cac90378fbe1675e6e3c345688da546a493b8689961b2",
+        "size_in_bytes": 557
+      },
+      {
+        "_path": "Lib/site-packages/factory/errors.py",
+        "path_type": "hardlink",
+        "sha256": "38197d43f75d9fbe0cde2feb4543c77b62e669629883bc5dd1cb21e035b05c32",
+        "sha256_in_prefix": "38197d43f75d9fbe0cde2feb4543c77b62e669629883bc5dd1cb21e035b05c32",
+        "size_in_bytes": 748
+      },
+      {
+        "_path": "Lib/site-packages/factory/faker.py",
+        "path_type": "hardlink",
+        "sha256": "0f742e3ab8cf3989e94a8e7d2067ee4ef906e81f65eee4df618bbab4faef6544",
+        "sha256_in_prefix": "0f742e3ab8cf3989e94a8e7d2067ee4ef906e81f65eee4df618bbab4faef6544",
+        "size_in_bytes": 1958
+      },
+      {
+        "_path": "Lib/site-packages/factory/fuzzy.py",
+        "path_type": "hardlink",
+        "sha256": "321c35cdef656ca8bb3df8ef80ddf050e66ee51ca73e82a85b4b4430815a5d02",
+        "sha256_in_prefix": "321c35cdef656ca8bb3df8ef80ddf050e66ee51ca73e82a85b4b4430815a5d02",
+        "size_in_bytes": 8887
+      },
+      {
+        "_path": "Lib/site-packages/factory/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "428d8be4934b47dbb4c529b0161038ea7a71fab67efb269fa4065332c83b7f5d",
+        "sha256_in_prefix": "428d8be4934b47dbb4c529b0161038ea7a71fab67efb269fa4065332c83b7f5d",
+        "size_in_bytes": 3408
+      },
+      {
+        "_path": "Lib/site-packages/factory/mogo.py",
+        "path_type": "hardlink",
+        "sha256": "a7efca87164ae98732dd54e89c53d12faf0c774df8da68ab5171fe06fc71e065",
+        "sha256_in_prefix": "a7efca87164ae98732dd54e89c53d12faf0c774df8da68ab5171fe06fc71e065",
+        "size_in_bytes": 526
+      },
+      {
+        "_path": "Lib/site-packages/factory/mongoengine.py",
+        "path_type": "hardlink",
+        "sha256": "9b7b50e0031ac7d6a0833a4eeb0122e8bc2296de6697b4d5e5732632892cbba2",
+        "sha256_in_prefix": "9b7b50e0031ac7d6a0833a4eeb0122e8bc2296de6697b4d5e5732632892cbba2",
+        "size_in_bytes": 586
+      },
+      {
+        "_path": "Lib/site-packages/factory/random.py",
+        "path_type": "hardlink",
+        "sha256": "dfff403e19d7cab90a552441f2bb36165e646058a187f688f19767d1c878f770",
+        "sha256_in_prefix": "dfff403e19d7cab90a552441f2bb36165e646058a187f688f19767d1c878f770",
+        "size_in_bytes": 729
+      },
+      {
+        "_path": "Lib/site-packages/factory/utils.py",
+        "path_type": "hardlink",
+        "sha256": "f0d9208d4576687dd08633b37e0be96652979285a5b55ff0c63360be9ece2ed7",
+        "sha256_in_prefix": "f0d9208d4576687dd08633b37e0be96652979285a5b55ff0c63360be9ece2ed7",
+        "size_in_bytes": 3106
+      },
+      {
+        "_path": "Lib/site-packages/factory_boy-3.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/factory_boy-3.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "1e3bd28a22593bd69aad9b64595cbcc39be625b5a51ea21aafa4b08136a76966",
+        "sha256_in_prefix": "1e3bd28a22593bd69aad9b64595cbcc39be625b5a51ea21aafa4b08136a76966",
+        "size_in_bytes": 1136
+      },
+      {
+        "_path": "Lib/site-packages/factory_boy-3.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "60977c37fdeb36c54be76785c392f9355b8bb964d92fb08a23007273b8fda0ba",
+        "sha256_in_prefix": "60977c37fdeb36c54be76785c392f9355b8bb964d92fb08a23007273b8fda0ba",
+        "size_in_bytes": 14363
+      },
+      {
+        "_path": "Lib/site-packages/factory_boy-3.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f4293bf3ce250aecf45b01b88c5c27fb1b14d234ffe60d38e30c4947e11cc765",
+        "sha256_in_prefix": "f4293bf3ce250aecf45b01b88c5c27fb1b14d234ffe60d38e30c4947e11cc765",
+        "size_in_bytes": 2525
+      },
+      {
+        "_path": "Lib/site-packages/factory_boy-3.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/factory_boy-3.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/factory_boy-3.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "3ffa75adb6f3226a90098d71314e9c9a226ec984b54d07fd08cbb1bb94ca204d",
+        "sha256_in_prefix": "3ffa75adb6f3226a90098d71314e9c9a226ec984b54d07fd08cbb1bb94ca204d",
+        "size_in_bytes": 75
+      },
+      {
+        "_path": "Lib/site-packages/factory_boy-3.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f24e362e035d283300dae0402c8a6d48cf39e21cddd9327893e3dc0fbf3314c1",
+        "sha256_in_prefix": "f24e362e035d283300dae0402c8a6d48cf39e21cddd9327893e3dc0fbf3314c1",
+        "size_in_bytes": 8
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "factory_boy",
+  "sha256": "74609b2ec8e4037f8b4cc2a97e088626be270f3ff224f9de209b6efb6b3390b7",
+  "size": 61208,
+  "subdir": "win-64",
+  "timestamp": 1642080642000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/factory_boy-3.2.0-py310haa95532_0.conda",
+  "version": "3.2.0"
+}
