@@ -1,0 +1,27 @@
+version: '3.9'
+
+services:
+  db:
+    image: mysql:8
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_DATABASE='djangodb'
+      - MYSQL_USER='root'
+      - MYSQL_PASSWORD='admin'
+      - MYSQL_HOST='35.192.138.18'
+      - MYSQL_ROOT_PASSWORD='admin'
+    volumes:
+      - /tmp/code/mysqld:/var/run/mysqld
+      - ./db:/var/lib/mysql
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/code
+      - /tmp/code/mysqld:/run/mysqld
+    depends_on:
+      - db
+
