@@ -1,16 +1,16 @@
 FROM python:3.8
 
-ENV PYTHONUNBUFFERED=1
+# Create app directory
+WORKDIR /usr/src/app
 
-WORKDIR /code
+# Copy the Flask app source to the working directory
+COPY . .
 
-COPY requirements.txt /code
-
+# Install Flask
 RUN pip install -r requirements.txt
 
-COPY . /code
+# Expose the required port
+EXPOSE 8080
 
-EXPOSE 8000
-
-
-
+# Specify the command to run the Flask app
+CMD ["python", "randomquotes.py"]
