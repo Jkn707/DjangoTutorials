@@ -1,14 +1,24 @@
 {% extends 'pages/base.html' %}
 {% block title %} {{title}} {% endblock %}
-{% block header_title %} {{subtitle1}} {% endblock %}
+{% block header_title %} {{subtitle}} {% endblock %}
 {% block content %}
 <div class="container">
     <div class="row">
-        <div>
-            <p class = "lead">{{email}}</p>
-            <p class = "lead">{{address}}</p>
-            <p class = "lead">{{phone}}</p>
+        <div class="col-lg-4 ms-auto">
+            <p class="lead">{{application_email}}</p>
+        </div>
+        <div class="col-lg-4 me-auto">
+            <p class="lead">{{address}}</p>
+        </div>
+        <div class="col-lg-4 me-auto">
+            <p class="lead">{{phone_number}}</p>
         </div>
     </div>
 </div>
 {% endblock %}
+
+"title": "About us - Online Store",
+"subtitle": "About us",
+"application_email": "laempresa@hotmail.com",
+"address": "Calle 22 # 33-44",
+"phone_number": "(312) 456-7890",
